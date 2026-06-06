@@ -1,17 +1,26 @@
-# CODSOFT Internship Projects
+# CODSOFT Python Projects
 
-## Task 3 - Password Generator
+This repository contains Python projects completed as part of the CODSOFT Internship Program.
 
-A Python-based password generator that creates strong and secure random passwords based on user preferences.
+## Projects
 
-### Features
-- Generate random passwords
-- Custom password length
-- Strong and secure password creation
-- Easy to use
+### 1. Calculator
 
-### Technologies Used
-- Python
+A simple command-line calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-### Author
+### 2. Password Generator
+
+A Python-based password generator that creates strong and secure random passwords based on user-defined length and complexity.
+
+### 3. Rock Paper Scissors
+
+A command-line implementation of the classic Rock Paper Scissors game where the user plays against the computer.
+
+## Technologies Used
+
+* Python
+
+## Author
+
 Ayati
+
